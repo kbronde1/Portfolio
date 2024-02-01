@@ -1,0 +1,2 @@
+# Assignment 5
+In this assignment, I implemented the sensor beam function and the system model of a particle filter. More specifically, I implemented the beam model of a laser range finder and the odometry motion model. My implementation was used in the simulation of a Husky robot being teleoperated in an outdoor environment. The simulation used Gazebo to simulate the environment of an on-campus building (Wyman), the robot and its sensors.
