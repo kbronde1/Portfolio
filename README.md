@@ -14,3 +14,6 @@ This course introduced the basic concepts of DL such as an introduction to the b
 machine learning, commonly used architectures for DL, current challenges including ethics and fairness, and specialized applications with a particular focus on computer vision. I solved several DL problems on standardized data sets in assignments throughout the semester, and my skills culminated in a final group project on a topic of our choosing.
 
 Primary coding language: Python
+
+### Disclaimer
+I will only upload that which is my own work and which I have submitted. I have finished all these classes, but in an effort to protect the integrity of these professors' coursework, I will keep this repo as mostly Private, only switching to Public as necessary. Data sets, coding provided by the professors, and the original assignment pdf's are omitted for a similar reason.
