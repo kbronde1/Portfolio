@@ -2,7 +2,7 @@
 
 All assignments were required to be submitted as both a Jupyter notebook (.ipynb) and report (.pdf). I have attached my assignments only in the report format, omitting odd-numbered homework assignments as they were theory-based and therefore contain no coding. A brief description of the even-numbered homeworks can be found below.
 
-### Homework 2
+## Homework 2
 #### Autograd Structure
 In this assignment, I implemented my own AudoGrad structure. I then implemented a linear classifier using said AutoGrad class, trained it on a 2-dimensional toy dataset, and displayed my results. To quantify the model’s performance, I passed its output through a softmax function and then use Cross Entropy loss to measure agreement with the target output.
 
@@ -14,7 +14,7 @@ For this assignment, I manually implemented an "AND gate" and an "OR gate" for d
 #### CNNs via PyTorch
 This assignment also had me create a Convolutional Neural Network to use for classification of the Fashion MNIST dataset.
 
-# Homework 6
+## Homework 6
 #### Unsupervised Pre-Training
 In the first part of this assignment, I attempted the 2017 Endoscopic Instrument Challenge. I was given a pre-processed dataset consisting of endoscopic frame images (not in sequential order). The goal was to train a network which takes each RGB frame as an input and predicts a pixel-wise segmentation mask that labels the target instrument type and background tissue. Additionally, I introduced an unsupervised pre-training method and compared the performance of training on a small labeled dataset with/without pre-training. This is relevant for real-life medical image problems, where there is usually a shortage of data labels.
 #### Transfer Learning
