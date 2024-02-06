@@ -15,5 +15,9 @@ machine learning, commonly used architectures for DL, current challenges includi
 
 Primary coding language: Python
 
+## Computer-Integrated Surgery I
+#### Taught by Russell Taylor
+This course introduced basic concepts of computer-integrated surgery, such as image segmentation, registration, modeling, robotics, safety, and human-machine interfaces. We were also taught application case studies and had guest lectures by clinicians & systems implementors. Other topics of interest were also briefly covered, such as outcomes and economic analysis and regulatory affairs.
+
 ### Disclaimer
 I will only upload that which is my own work and which I have submitted. I have finished all these classes, but in an effort to protect the integrity of these professors' coursework, I will keep this repo as mostly Private, only switching to Public as necessary. Data sets, coding provided by the professors, and the original assignment pdf's are omitted for a similar reason.
