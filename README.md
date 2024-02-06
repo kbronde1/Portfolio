@@ -2,7 +2,7 @@
 
 This is a compilation of various assignments I have completed during my time as a BME undergraduate student at Johns Hopkins University. The courses are briefly explained below.
 
-## Algorithms for Sensor-Based Robotics (ASBR)
+## Algorithms for Sensor-Based Robotics
 #### Taught by Simon Leonard
 This course surveyed the development of robotic systems for navigating in an environment from an algorithmic perspective. It covered basic kinematics, configuration space concepts, motion planning, and localization and mapping. It described these concepts in the context of the ROS software system, and presented examples relevant to mobile platforms, manipulation, robotics surgery, and human-machine systems.
 
